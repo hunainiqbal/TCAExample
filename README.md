@@ -25,6 +25,7 @@ walks through a complete create / read / update / delete flow end to end.
 - [API](#api)
 - [Learning Aid: TCA Action Tracing](#learning-aid-tca-action-tracing)
 - [Keywords & Topics](#keywords--topics)
+- [License](#license)
 
 ## Overview
 
@@ -145,3 +146,7 @@ way to *learn how TCA actually works* by reading the live action/state stream.
 `#UnidirectionalDataFlow` `#DependencyInjection` `#SwiftConcurrency`
 `#AsyncAwait` `#CRUD` `#RESTAPI` `#Keychain` `#MVVM` `#iOSDevelopment`
 `#Swift6` `#MobileApp` `#ExampleApp`
+
+## License
+
+Released under the [MIT License](LICENSE).
