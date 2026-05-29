@@ -7,7 +7,8 @@ import Foundation
 struct LoginFeature {
     @ObservableState
     struct State: Equatable {
-        // Pre-filled with the project's demo key for convenience.
+        // Enter your restful-api.dev API key. Never hardcode a real key here —
+        // it is stored in the Keychain after a successful sign-in.
         var apiKey = ""
         var isValidating = false
         var errorMessage: String?
